@@ -1,0 +1,24 @@
+{
+  "name": "1993",
+  "version": "0.0.1",
+  "description": "Hi, I am 三咲智子 (Kevin)",
+  "bugs": "https://github.com/Tongglen/1993",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tongglen/1993"
+  },
+  "funding": "https://github.com/sponsors/Tongglen",
+  "license": "MIT",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "sxzz": "./index.js"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "open": "^8.4.0"
+  }
+}
